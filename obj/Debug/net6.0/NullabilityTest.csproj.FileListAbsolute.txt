@@ -1,0 +1,15 @@
+D:\Laboratory\NullabilityTest\bin\Debug\net6.0\NullabilityTest.exe
+D:\Laboratory\NullabilityTest\bin\Debug\net6.0\NullabilityTest.deps.json
+D:\Laboratory\NullabilityTest\bin\Debug\net6.0\NullabilityTest.runtimeconfig.json
+D:\Laboratory\NullabilityTest\bin\Debug\net6.0\NullabilityTest.dll
+D:\Laboratory\NullabilityTest\bin\Debug\net6.0\ref\NullabilityTest.dll
+D:\Laboratory\NullabilityTest\bin\Debug\net6.0\NullabilityTest.pdb
+D:\Laboratory\NullabilityTest\obj\Debug\net6.0\NullabilityTest.csproj.AssemblyReference.cache
+D:\Laboratory\NullabilityTest\obj\Debug\net6.0\NullabilityTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laboratory\NullabilityTest\obj\Debug\net6.0\NullabilityTest.AssemblyInfoInputs.cache
+D:\Laboratory\NullabilityTest\obj\Debug\net6.0\NullabilityTest.AssemblyInfo.cs
+D:\Laboratory\NullabilityTest\obj\Debug\net6.0\NullabilityTest.csproj.CoreCompileInputs.cache
+D:\Laboratory\NullabilityTest\obj\Debug\net6.0\NullabilityTest.dll
+D:\Laboratory\NullabilityTest\obj\Debug\net6.0\ref\NullabilityTest.dll
+D:\Laboratory\NullabilityTest\obj\Debug\net6.0\NullabilityTest.pdb
+D:\Laboratory\NullabilityTest\obj\Debug\net6.0\NullabilityTest.genruntimeconfig.cache
